@@ -6,8 +6,6 @@
     "flower",
     "monitor"
   ],
-  "website": "https://github.com/wli/celery-flower-heroku",
-  "repository": "https://github.com/wli/celery-flower-heroku",
   "env": {
     "BROKER_URL": {
       "description": "Default broker URL.",
